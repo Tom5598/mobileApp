@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TileShop</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Desc.:</string>
+    <string name="item_info_placeholder">Item info…</string>
+    <string name="subtitle_detail_text">Something something…</string>
+
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="registration">Registration</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password_again">Password Again</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="switch_layout">Switch Layout</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+
+    <string name="log_out">Log-out</string>
+    <string name="delete">Delete</string>
+
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="default_quantity">1</string>
+    <string name="place_order">Place Order</string>
+    <string name="total">Total:</string>
+    <string name="ft">Ft/sqm</string>
+    <string name="user_data">User data</string>
+    <string name="address">Address</string>
+    <string name="order_id">order ID goes here</string>
+</resources>
